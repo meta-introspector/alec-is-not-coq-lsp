@@ -1,4 +1,4 @@
-# Coq LSP <img align="right" height="42" src="./etc/img/inria-logo.png"/>  <!-- omit in toc -->
+# Alec is not Coq LSP <img align="right" height="42" src="./etc/img/inria-logo.png"/>  <!-- omit in toc -->
 
 [![Github CI][ci-badge]][ci-link]
 
